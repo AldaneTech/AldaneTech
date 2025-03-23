@@ -54,6 +54,8 @@ Inspired in alsiam's readme repository
 
 <h4 align="center">Frameworks and libraries<h4>
 <div align="center">
+ <img src="https://img.shields.io/badge/Springboot-mB33F.svg?logo=spring&logoColor=white">
+ <img src="https://img.shields.io/badge/Swagger-85EA2D.svg?logo=swagger&logoColor=black">
  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white">
  <img src="https://img.shields.io/badge/primeng-06B6D4.svg?logo=primeng&logoColor=white">
  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white">
@@ -65,7 +67,8 @@ Inspired in alsiam's readme repository
 
 <h4 align="center">Technologies<h4>
 <div align="center">
-
+ <img src="https://img.shields.io/badge/Keycloak-3C6AF5.svg?logo=keycloak&logoColor=white">
+ <img src="https://img.shields.io/badge/Redis-D82C20.svg?logo=redis&logoColor=white">
  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">
  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
