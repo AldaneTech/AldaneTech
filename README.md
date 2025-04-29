@@ -8,9 +8,7 @@ Inspired in alsiam's readme repository
 </h3>
 
 <div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=20&duration=4000&pause=1000&color=F03F88&center=true&vCenter=true&random=false&width=435&lines=&gt+echo+-e+&quot;I+am+Aldane&quot;](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=F03F88&center=true&vCenter=true&width=435&lines=echo+-e+%22I+am+Aldane%22" alt="Typing SVG" />
-    </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=F03F88&center=true&vCenter=true&width=435&lines=echo+-e+%22I+am+Aldane%22" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
